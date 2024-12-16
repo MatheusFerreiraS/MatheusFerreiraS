@@ -1,1 +1,2 @@
 - Front-End / SQL / LUA / JAVA
+- Currently Working in U.S Chronicles (FiveM RP Server)
