@@ -1,3 +1,3 @@
 - Front-End / SQL / LUA / JAVA
 - Currently Working in Gringa Chronicles (FiveM RP Server)
-- Gringa Chronicles Discord: https://discord.gg/gringarp
+- U.S Chronicles Discord: https://discord.gg/N2vNASExRN
